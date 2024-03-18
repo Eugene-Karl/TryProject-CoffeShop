@@ -1,0 +1,24 @@
+.images {
+    height: 17.5rem;
+}
+.button {
+    background-color: #5BACC3;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+footer, nav, .head {
+    background-color: #FFF0ED;
+}
+.discount {
+    background-color: #393939;
+    width: 90%;
+    color: #fff;
+    size: 2.8rem;
+    font-weight: bold;
+}
+p {
+    size: 1.13rem;
+    font-weight: 400;
+}
